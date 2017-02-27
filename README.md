@@ -1,7 +1,7 @@
 # FB-AutoPoker
 A very, very simple autopoker for facebook.
 
-Paste the contents of AutoPoker.js into console on your poke page, and then run autoPoke() once. Sit back, and enjoy.
+Paste the contents of AutoPoker.js into console on your poke page, then sit back, and enjoy.
 
 Facebook warns you about pasting things into console, but honestly, just look at autoPoke(). There is literally nothing there that could do anything malicious. Feel free to double check yourself, of course.
 
