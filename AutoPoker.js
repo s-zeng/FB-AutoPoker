@@ -7,3 +7,4 @@ function autoPoke() {
     }
     setTimeout(autoPoke, 1000);
 }
+autoPoke();
