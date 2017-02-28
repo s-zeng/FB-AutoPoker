@@ -3,9 +3,7 @@ A very, very simple autopoker for facebook.
 
 Paste the contents of AutoPoker.js into console on your poke page, then sit back, and enjoy.
 
-Alternatively, drag the following bookmarklet into your bookmarks bar, and press it when you're on the FB poke page.
-
-[Autopoker](https://raw.githubusercontent.com/s-zeng/FB-AutoPoker/master/AutoPoker.js)
+Alternatively, put the contents of AutoPokerBookmarklet into the address section of a bookmark. You can then click the bookmarklet to start the autopoker.
 
 Facebook warns you about pasting things into console, but honestly, just look at autoPoke(). There is literally nothing there that could do anything malicious. Feel free to double check yourself, of course.
 
