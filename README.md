@@ -5,7 +5,7 @@ Paste the contents of AutoPoker.js into console on your poke page, then sit back
 
 Alternatively, drag the following bookmarklet into your bookmarks bar, and press it when you're on the FB poke page.
 
-[Autopoker](javascript:(function f(){k=document.getElementsByTagName("a");for(var i=0;i<k.length;i++){if(k[i].innerHTML.contains("Poke B")){k[i].click();}}setTimeout(f,500);})();)
+[Autopoker](https://raw.githubusercontent.com/s-zeng/FB-AutoPoker/master/AutoPoker.js)
 
 Facebook warns you about pasting things into console, but honestly, just look at autoPoke(). There is literally nothing there that could do anything malicious. Feel free to double check yourself, of course.
 
