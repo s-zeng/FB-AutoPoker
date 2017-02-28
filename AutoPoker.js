@@ -5,6 +5,6 @@ function autoPoke() {
             thing[i].click();
         }
     }
-    setTimeout(autoPoke, 1000);
+    setTimeout(autoPoke, 500);
 }
 autoPoke();
